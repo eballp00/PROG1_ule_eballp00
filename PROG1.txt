@@ -8,3 +8,15 @@
 8. Mochila http://dle.rae.es/mochila
 9. Ordenador http://dle.rae.es/ordenador
 10. Teléfono https://dle.rae.es/tel%C3%A9fono
+
+
+1. Lámpara: https://dle.rae.es/l%C3%A1mpara
+2. Cañería: https://dle.rae.es/ca%C3%B1er%C3%ADa?m=form
+3. Botella: https://dle.rae.es/botella?m=form
+4. Ordenador: https://dle.rae.es/ordenador?m=form
+5. Silla: https://dle.rae.es/silla?m=form
+6. Ventana: https://dle.rae.es/ventana?m=form
+7. Mesa: https://dle.rae.es/mesa?m=form
+8. Maleta: https://dle.rae.es/maleta?m=form
+9. Jarrón: https://dle.rae.es/jarr%C3%B3n?m=form
+10. Armario: https://dle.rae.es/armario?m=form
